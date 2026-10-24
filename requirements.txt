@@ -1,0 +1,11 @@
+torch>=2.0
+torchvision
+albumentations
+opencv-python
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+pillow
+tqdm
